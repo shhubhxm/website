@@ -14,12 +14,13 @@ body{
 }
 h3{
   font-family: 'Indie Flower', cursive;
-  font-size: 1.3rem;
+  font-size: 2rem;
   margin: 20px auto 20px auto;
   color:#565d47;
 }
 h2{
   color:#5e6f64;
+  font-style: 2.2rem;
 }
 .top{
   background-color: #85a392;
@@ -44,13 +45,13 @@ h2{
   width: 100px;
   position: absolute;
   right:750px;
-  top:30px;
+  top:60px;
 }
 .paws{
-  height:80px;
-  width: 100px;
+  height:60px;
+  width: 70px;
   position: absolute;
-  right:1030px;
+  right:1070px;
   top:200px;
   bottom:50px;
 }
@@ -126,7 +127,14 @@ a{
   color:#bac7a7;
   margin:10px 20px;
   text-decoration: none;
+  font-size: 1.3rem;
 }
 a:hover{
   color: #e5e4cc;
+}
+p{
+  font-size: 1.7rem;
+}
+.tm{
+  font-size: 1.4rem;
 }
